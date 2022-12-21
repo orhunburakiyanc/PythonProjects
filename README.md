@@ -1,26 +1,28 @@
 # PythonProjects
 
-'calculating_time_of_a_rocket'
- 
+
+# 'calculating_time_of_a_rocket'
   
-'creating_basic_passwords'
+  
+# 'creating_basic_passwords'
 
 
-'encryption_and_decryption'
+# 'encryption_and_decryption'
 
 
-'palindrome'
+# 'palindrome'
 
 
-'printing_a_triangle'
+# 'printing_a_triangle'
 
 
-'selling_paintings'
+# 'selling_paintings'
 
 
-'simplified_chess_game'
+# 'simplified_chess_game'
 
 
-'simplified_tombala_game'
+# 'simplified_tombala_game'
 
-'sum_of_multiples'
+
+# 'sum_of_multiples'
