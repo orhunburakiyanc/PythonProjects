@@ -1,0 +1,56 @@
+def check_word(the_word,txt):
+  #to run 'find_word' function or not
+  set_second_function = False
+  
+  #Get the sentences with split 
+  for sentences in txt.split("."):
+    #Checking 
+    for word in sentences.split(" "):
+      if word.lower() == the_word:
+        set_second_function = True
+        break
+    if set_second_function:
+      break
+
+  if set_second_function:
+    find_word(the_word,txt_file)
+  else:
+    print("\nThere are no such words as \"{}\".".format(the_word))
+
+def find_word(the_word,txt):
+  #Count => show how many sentences that conatins 'the_word' word.
+  count=1
+
+  #iteration => prevent repeated outputs 
+  iteration = False
+  
+  #Get the sentences with split 
+  for sentences in txt.split("."):
+    #Checking 
+    for word in sentences.split(" "):
+      if word.lower() == the_word:
+        if iteration == True:
+          iteration = False
+          break
+        print("\n{}->{}".format(count,sentences))
+        iteration = True
+        count+=1 
+        break
+    iteration = False
+
+
+
+#Input and check the word if it is valid or not 
+the_word=input("Please enter a word: ").lower()
+while not the_word.isalnum():
+  the_word=input("Please enter a valid word !\n=> ")
+  if the_word.isalpha():
+    break
+
+#Open the txt file
+inFile=open("the_text.txt","r")
+txt_file=inFile.read()
+inFile.close()
+
+#Check if there are such words as 'the_word'
+check_word(the_word,txt_file)
