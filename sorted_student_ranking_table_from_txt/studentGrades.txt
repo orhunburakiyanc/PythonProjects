@@ -1,0 +1,205 @@
+Names/Courses           	IF100	SPS101	NS101	MATH101	HIST191	TLL101
+Yahsi, Fatih Taha          	A-	B-	B-	D	B+	A
+Karabagli, Batuhan         	D+	C-	B	B	D+	F
+Karaev, Timur              	A	C+	D+	C	A-	C+
+Egeli, Rukiye-ayshe        	A-	B-	B+	D	C-	D+
+Unal, Berfe Naz            	D	D	D	A	C+	D+
+Rzayev, Murad              	F	A	D+	D	D+	B-
+Yetki, Tan Doruk           	B	C-	C+	A	A	A-
+Ridwan Kudret, Syed       	B-	C-	D+	A-	B-	A-
+Babazade, Heydar           	C+	B-	C	C+	D	C+
+Bashirli, Sevinj           	A	D+	D	A-	B	C+
+Saygin, Ali                	B-	D	F	F	F	B
+Ahad, Abdul                	D+	A	B	B-	A-	B-
+Sekerci, Sumeyye Dilara    	B	B-	D+	A-	C+	A-
+Asif, Maria                	B+	C-	A-	F	A-	D
+Karman, Husam Addin        	C-	B-	A-	D	B-	D
+Musayev, Nihad             	C+	B-	D+	B+	C+	D
+Zakaria, Ali               	C+	B	B	F	B	D
+Elyakubi, Emin             	A-	A	D	A-	A	B
+Rafi, Ramza                	D+	A	C-	B	F	B+
+Zaim, Chaimaa              	C+	C-	A-	C	C+	C+
+Kassem, Abdelrahman        	C	D+	F	F	F	D+
+Boy, Navruz Yusuf          	B	A	B	B	B	A
+Kilic, Ipek                	B	F	B-	C+	A-	B+
+senturk, Cihan             	C	C	B+	F	B	B
+Erdem, Kadir Kagan         	D	B-	B	D+	B-	A
+Dogan, Eliz                	F	C+	C+	A-	A	C
+Yilmaz, Selcuk             	F	C	C	B-	D+	D
+Kahraman, Dua Kayra        	D	C-	F	C+	B-	C+
+sener, Ozkul Emre          	B+	C+	B+	C+	A	C-
+Turkbayragi, Deniz         	A	D+	D	A	B-	F
+Altunbag, Muharrem         	D+	D+	D+	B-	C+	F
+Kayan, Berke               	B	B+	C-	C+	C	D+
+Kucukahmetler, Deniz       	A	C	B+	B	D+	A-
+Caglayan, Cemre            	B-	F	A	D+	D+	B
+Caniklioglu, Serkan Bekir  	A-	D	D+	A-	D	C+
+Ongun, Alp                 	D	B+	C	A	D	C+
+Salkaya, Zeynep            	C-	C+	C-	D+	F	D+
+Arslan, Yeraz              	D+	B-	B	C+	C	A-
+Kok, Tahsin Altay          	B+	F	C	C-	A	D+
+Tinaz, Leyla               	B-	D+	D	C+	A	B-
+Karal, Bora Mert           	D	B	A-	D	B-	B-
+Erdemli, Volkan            	C	B+	B+	A-	B+	D+
+Dokgoz, Alp                	A	A-	B-	B+	A	D
+Karacan, Irem              	A	A-	D	F	B-	A-
+Yaradanakul, Zeynep        	A-	B	C+	A	C	C+
+Beyaztas, Dorukhan         	B	B-	C	B+	B+	B-
+Seven, Elif                	C	C-	C+	B+	D+	B
+Zeki, Ipek                 	C+	C+	A	C+	F	B-
+Abaci, Dorukan             	C	B+	F	B+	A-	C+
+Ozkan, Halil Armagan       	D+	A	B	B+	D	B-
+Erdem, Okyanus             	A	F	B+	B	F	A-
+Karabulut, Eylul Berfin    	A-	A-	A-	B-	C+	B-
+Palakci, Zeynep            	B+	B+	B-	A-	C-	B-
+Circi, Defne               	B-	D+	C	A	B-	D+
+Okanoglu, Bora             	A-	B	B-	C	B-	A
+Kaya, Burak                	A	B-	A	C+	F	B+
+Demirci, Bengisu           	D+	D+	D+	A	A-	A
+Tozkoparan, Arda           	D	C	B-	F	C-	D+
+Mazici, Bengisu            	F	C+	C+	B+	D+	B
+Binici, Gozde              	A	B	B-	A	C-	D
+Koyuncu, Kerem             	A-	D	C-	B+	B+	B
+Omur, Ceyda                	D+	B	C	D+	C-	B
+Gonenc, Sude Sena          	B	B+	C+	A	B	B
+Olgun, Yigit Ruzgar        	D+	C-	A-	C	B-	A
+Akyol, Yasemin             	F	F	C+	F	A-	C-
+Ogmen, Ayse Esra           	D	A	A	C	B	A-
+Turna, Ceren               	C+	B	B-	B-	D	F
+Balci, Ilayda              	A	D+	C	B	C+	B+
+Oflaz, Gurhan Barkin       	B	C-	B+	B+	B+	B
+Celebi, Ceren              	B	C	A	D	C	D+
+Cetin, Baris Ege           	C	C+	A-	C	A-	B
+Kahraman, Beste            	C+	D+	D+	A	A-	C-
+sener, Yaman               	D+	B-	C	C+	C-	B-
+Aksit, Mehmet Cevat        	A-	D	C	A-	F	C
+Ozmen, Aysegul             	D+	C-	C	B-	C-	B-
+Eryuksel, Esin             	B+	D	B-	F	C	C
+Zengin, Burcu              	B	B	D	A-	A	B
+Kutsal, Arda               	F	A-	C+	C	C	D
+Cankaya, Semih Polat       	D	A-	C+	B	B+	D+
+Havuz, Sena Naz            	D+	B	B	B-	B-	F
+Sozer, Ugur Dogan          	D	F	B-	B-	D	B+
+Akant, Zeynep              	D	B+	A	B+	A	B
+Kurtaran, Ali              	B+	C+	A	C+	B	D
+Savaskan, Emir             	D	C+	B	B-	A-	D
+Mevlat, Dante Yetvart      	D+	A	A-	F	C-	F
+Tufekci, Zeynep            	C	B+	C	C	F	B+
+Tuzlen, Serra              	B-	B+	B	A	B+	B+
+Ozoral, Elif Yesim         	B-	C+	A-	C-	D+	A
+sahin, Can                 	C-	B-	B+	B+	A-	B
+Bekar, Zeynep              	B	B-	B-	B	C	C+
+sahsuvaroglu, Algan        	D+	C	D+	D+	A-	B
+Ovun, Ece                  	D+	D+	B-	B	B+	C+
+Baydar, Tolga              	F	F	C-	B-	B-	B-
+Telli, Ceyda               	F	B	D+	D+	A	C
+Akpinar, Dorukhan          	C+	B-	C-	D	A-	C+
+Coskun, Giray              	D+	C+	A-	D	B+	F
+Aykanat, Cicek Nur         	F	C+	B+	F	B-	B+
+Ucal, Gizem                	B	A-	C+	C+	B-	B-
+Nuhoglu, Ozgur             	C-	B	A-	F	D	A-
+Kilinc, Zeynep             	D	B	B+	D+	B	B
+Ogurlu, silan              	B+	C-	F	F	B	C+
+Ozcelik, Ece               	C-	D	C+	D+	C-	A
+Ozyoran, Ozlem             	B-	B+	A	C	C	C-
+Siradag, Arda              	B	C	C+	D+	C+	B-
+Sabah, Berke Kagan         	C-	A-	C	C	C	F
+Arigumus, Ahmet Emre       	C+	C-	D+	D	B+	D
+Ersoy, Hatice Elif         	B	F	D	D	A	A
+Erturk, Gozde              	C-	A-	B	B-	F	B+
+Ozteber, Ege Yusuf         	C	D+	D	C	A	A
+Temucin, Elif sevval       	C+	D	C-	C+	C-	F
+Ciftcioglu, Pelinsu        	B+	C-	C	B	C	C-
+Silahyurekli, Osman Serhan 	D+	B	B	A-	A-	B-
+Aga, Firuze Alinda         	A	B+	B-	D+	A	B+
+Balin, Talha               	A	D+	B-	B	C	C+
+Korkmazgil, Buse Nur       	D	A	B-	C+	D+	B
+Ergezer, Ece               	F	D+	B-	C-	A-	D+
+Kaya, Berdan Lal           	A-	C+	B-	A-	B-	C-
+Ozbil, Mazhar Mert         	D	A	F	C+	F	B-
+Albayrak, Oyku             	B	D+	C	F	B	A
+Okan, Kerem                	A	C-	C	A-	C	D
+Arslan, Karya Ceren        	B	D+	B	D+	B+	D+
+senol, Irmak               	B	B	B-	A	D	F
+Kula, Nur Aslisah          	D	A	B-	B-	D+	B
+Aya, Ecem Meva             	B+	A-	B+	A	B	B-
+Yavuz, Oguz Kagan          	F	C	A	C	D+	C-
+Altug, Selin               	B+	B-	A-	F	D+	B+
+Ergun, Mert                	C-	B-	B+	B	B-	B+
+Umucu, Zeynep              	D+	C-	B	B-	B-	A-
+Basar, Asli Sinem          	C	B+	A	D+	C-	B
+Mutlu, Eren                	B+	D+	B-	B+	D+	A
+Kutman, Buse               	B	D+	B-	F	C-	C-
+Geron, Sinan Sami          	C	C-	B	C	B	D
+Tercan, Murat              	F	C-	C	D+	C-	B-
+Mustecep, Dilara           	D+	F	B+	B+	C+	D
+Seckin, Elif Nur           	B-	B+	D+	B-	A-	B-
+Onar, Eylul                	B+	C	B+	B-	B+	A
+Malaz, Mert                	A-	D	C-	D	C-	B-
+Turhan, Berk               	F	F	F	D	C-	A-
+Erdogan, Ege               	B-	D+	C	F	D+	D+
+Cinar, Hasan Ertugrul      	D+	F	C+	A	A-	D
+Elbasi, Burcu              	B+	C+	D	B+	D+	C+
+Duran, Cagla Sila          	B+	B-	B	D	D+	D
+Sipahioglu, Faruk          	B-	B	C	A	C-	A-
+Sakalli, Irem              	A	C-	C+	B	A-	A-
+Aydin, Mustafa Bora        	B-	A	C-	A	B-	C
+Yurudur, Mehmet Berkay     	B+	C	F	B+	A-	B-
+Koc, Deniz                 	B	D+	D	F	A-	D
+Aykac, Deniz               	B-	C	C	A-	D	D
+Ozerli, Ahmet sevki        	A	A	C-	B	A-	C-
+Kaya, Kerem                	B	C	F	B	D	B-
+Deniz, Ahmet Tarik         	A	C+	F	C-	F	B+
+Habiboglu, Yamac           	A-	B	D+	C	B+	B+
+Akalin, Cahit Batu         	C	D+	A	A-	B	A
+Yalcin, Mehmet Yavuz       	B-	A-	F	D	A-	C+
+Bayrakci, Zeynep Lara      	F	B+	A-	B-	F	B
+Sozugur, Bedia Deniz       	A-	D	C-	C-	A-	A
+Cosar, Olgu Cagin          	D+	D	A	B+	B	D+
+Pekel, Ege Deniz           	A-	A	B+	C+	A-	B
+Coruh, Simay               	C+	B-	B+	D	F	A-
+Ferah, Cengiz Kaan         	F	C+	C-	B	A-	B+
+Tamer, Can                 	F	C	C	B-	C	F
+Duran, Emre Aykut          	D+	B+	C	D+	A	C-
+Cangi, Deniz               	B+	D	B+	D+	A-	B-
+Gover, Mehmet Yigit        	B+	D+	A	A-	C+	C-
+Sumer, Aleyna Buse         	F	C-	B+	C+	C-	C+
+Ozen, Mebrure Buket        	D	D	A-	A	A-	C-
+Celik, Erdem Ulas          	A-	C	B+	C+	C-	A-
+Karaosmanoglu, Ece         	C-	C+	A-	C+	D	C+
+Ak, Merve                  	A	F	A-	D+	C-	A-
+Yuksel, Ecem               	A-	A-	B+	C-	C	C+
+Ozturk, Zeynep Serra       	A-	B-	C	A-	A	C-
+Gucin, Nilay Irem          	D	B+	C	F	F	B+
+Celik, Dogancan            	C-	B+	C+	D	D+	A
+Mete, Sabanur              	B-	C	A	A-	B	C+
+Inmez, Can Arman           	C	A	C+	B-	D+	A
+Yelmen, Deren              	D+	B-	C	B	C-	F
+Derya, Sevgi Sumru         	A	A	D	C+	C-	A-
+Manay, Selin               	C+	D+	D+	C-	A-	C+
+Kocaman, Orcun             	F	F	A	A	B	A-
+Sezgin, Mehmet Berke       	D+	F	A	F	F	C-
+Kerestecioglu, Alihan      	A	C-	D	B-	D+	B+
+Izgi, Kuzey                	F	D+	C	D+	A-	D+
+Erdem, Ece                 	C+	A	C+	D	C-	A-
+Erkotuz, Gokce Naz         	A-	C-	A	C-	A	C-
+Oncel, Mert                	A	B	D+	C-	F	B+
+Guler, Deniz               	B	F	D+	B+	D	F
+Kopru, Bengisu             	A	D	C-	F	C+	A-
+Bilgin, san Batu           	B	C	F	B+	B	C
+Yilmaz, Mert               	A-	B-	D	A	B+	B+
+Caner, Turan Ege           	D	C+	A-	D	C-	C+
+Kurumahmutoglu, Yaren Dila 	B	C	C+	A-	F	D
+Keklik, Hasan              	D+	F	C	C-	B	A-
+Gorur, Ali Kerem           	F	C+	B+	B-	A	C
+Karabulut, Nazire          	B-	C+	C-	B	D+	A-
+Sunar, Nilufer             	C+	A	C+	B+	D	A
+sen, Omer Efe              	B-	D+	C+	D+	B+	F
+Akyuz, Cosku               	D	A	B-	C+	B-	D+
+Baghirov, Musa             	F	C+	D	A	C-	A-
+Mehdiyev, Maqsud           	A-	A-	F	B	B	F
+Ibishova, Melissa          	A	C	B+	B-	F	C+
+Ezzaim, Mohamed Yassine    	D+	B-	B+	D	A	B+
+Yildirim, Deniz            	F	A-	A	B	C-	B
+Tansu, Berke               	B-	F	B-	B-	C+	F
+Oz, Remzi Yigit            	B-	D	C-	D	B+	B-
