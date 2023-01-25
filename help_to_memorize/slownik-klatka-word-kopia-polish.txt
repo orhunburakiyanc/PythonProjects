@@ -1,0 +1,325 @@
+m. długi głowy
+m. mostkowo-obojczykowo-sutkowy
+m. długi szyi
+m. pochyły przedni
+m. pochyły środkowy
+m. pochyły tylny
+m. pochyły najmniejszy
+mm. nadgnykowe
+mm. podgnykowe
+powięź szyjna
+m. prosty przedni głowy
+m. prosty boczny głowy
+m. szeroki szyi
+m. dwubrzuścowy
+brzusiec przedni mięśnia dwubrzuścowego
+brzusiec tylny mięśnia dwubrzuścowego
+m. rylcowo-gnykowy
+m. żuchwowo-gnykowy
+m. bródkowo-gnykowy
+m. mostkowo-gnykowy
+m. łopatkowo-gnykowy
+brzusiec górny mięśnia łopatkowo-gnykowego
+brzusiec dolny mięśnia łopatkowo-gnykowego
+m. mostkowo-tarczowy
+m. tarczowo-gnykowy
+blaszka powierzchowna powięzi szyjnej
+blaszka przedtchawicza powięzi szyjnej
+blaszka przedkręgowa powięzi szyjnej
+pochewka naczyń szyjnych
+mm. międzyżebrowe zewnętrzne
+mm. międzyżebrowe wewnętrzne
+mm. międzyżebrowe najgłębsze
+mm. podżebrowe
+m. poprzeczny klatki piersiowej
+przepona
+część lędźwiowa przepony
+część żebrowa przepony
+część mostkowa przepony
+rozwór aortowy przepony
+rozwór przełykowy przepony
+środek ścięgnisty przepony
+otwór żyły głównej przepony
+odnoga prawa części lędźwiowej przepony
+odnoga lewa części lędźwiowej przepony
+więzadło łukowate przyśrodkowe
+więzadło łukowate boczne
+więzadło łukowate pośrodkowe
+gardło
+jama gardła
+sklepienie gardła
+część nosowa gardła
+część ustna gardła
+część krtaniowa gardła
+migdałek gardłowy
+ujście gardłowe trąbki słuchowej
+wał trąbkowy
+fałd trąbkowo-gardłowy
+wał mięśnia dźwigacza
+migdałek trąbkowy
+zachyłek gardłowy
+zachyłek gruszkowaty
+szew gardła
+szew skrzydłowo-żuchwowy
+m. zwieracz górny gardła
+m. zwieracz środkowy gardła
+m. zwieracz dolny gardła
+m. rylcowo-gardłowy
+m. trąbkowo-gardłowy
+przestrzeń okołogardłowa
+przestrzeń zagardłowa
+Jama nosowa
+Chrząstka boczna nosa
+Chrząstka skrzydłowa większa
+Chrząstka skrzydłowa mniejsza
+Chrząstka nosa dodatkowa
+Chrząstka przegrody nosa
+Chrząstka lemieszowo-nosowa
+Nozdrza przednie
+Nozdrza tylne
+Przegroda nosa
+Przedsionek nosa
+Małżowina nosowa górna
+Małżowina nosowa środkowa
+Małżowina nosowa dolna
+Zachyłek klinowo-sitowy
+Przewód nosowy górny
+Przewód nosowy środkowy
+Przewód nosowy dolny
+Przewód nosowo-łzowy
+Przewód przysieczny
+Część błoniasta przegrody nosa
+Część chrzęstna przegrody nosa
+Część kostna przegrody nosa
+Narząd lemieszowo-nosowy
+Puszka sitowa
+Lejek sitowy
+Rozwór półksiężycowaty
+Zatoka szczękowa
+Zatoka klinowa
+Zatoka czołowa
+Komórki sitowe
+Komórki siotowe przetnie
+Komórki sitowe środkowe
+Komórki sitowe tylne
+Krtań
+Jama krtani
+Chrząstka tarczowata
+Chrząstka pierścieniowata
+Wyniosłość krtaniowa chrząstki tarczowatej
+Płytka prawa/lewa chrząstki tarczowatej
+Wcięcie tarczowe górne
+Róg górny chrząstki tarczowatej
+Róg dolny chrząstki tarczowatej
+Błona tarczowo-gnykowa
+Więzadło tarczowo-gnykowe pośrodkowe
+Więzadło tarczowo-gnykowe boczne
+Chrząstka nalewkowata
+Chrząstka różkowata
+Chrząstka klinowata
+Nagłośnia
+Staw pierścienno-tarczowy
+Staw pierścienno-nalewkowy
+Więzadło pierścienno-tarczowe pośrodkowe
+Więzadło pierścienno-tchawicze
+Wyrostek głosowy chrząstki nalewkowatej
+Wyrostek mięśniowy chrząstki nalewkowatej
+m. pierścienno-tarczowy
+m. pierścienno-nalewkowy tylny
+m. pierścienno-nalewkowy boczny
+m. głosowy
+m. tarczowo-nagłośniowy
+m. tarczowo-nalewkowy
+m. nalewkowy skośny
+m. nalewkowy poprzeczny
+m. nalewkowo-nagłośniowy
+Wejście do krtani
+Przedsionek krtani
+Jama pośrednia krtani
+Kieszonka krtaniowa
+Woreczek krtaniowy
+Głośnia
+Jama podgłośniowa
+Błona czworokatna krtani
+Stożek sprężysty
+Więzadło głosowe krtani
+Szpara przedsionka krtani
+Fałd przedsionkowy krtani
+Szpara głośni
+Fałd głosowy
+Tchawica
+Chrząstki tchawicze
+Więzadła obrączkowate tchawicy
+Rozdwojenie tchawicy
+Ostroga tchawicy
+Ściana błoniasta tchawicy
+Oskrzela
+Drzewo oskrzelowe
+Oskrzele główne (prawe/lewe)
+Oskrzele płatowe
+Oskrzele segmentowe
+Oskrzele płatowe górne (prawe/lewe)
+Oskrzele płatowe dolne (prawe/lewe)
+Oskrzele płatowe środkowe prawe
+Płuca
+Płuco prawe/lewe
+Podstawa płuca
+Szczyt płuca
+Powierzchnia żebrowa płuca
+Powierzchnia przyśrodkowa płuca
+Powierzchnia przeponowa płuca
+Wnęka płuca
+Korzeń płuca
+Płat górny płuca (prawego/lewego)
+Płat dolny płuca (prawego/lewego)
+Szczelina skośna płuca
+Segmenty oskrzelowo-płucne
+Oskrzeliki
+Języczek płuca lewego
+Płat środkowy płuca prawego
+Szczelina pozioma płuca prawego
+Segment szczytowy (SI) płuca prawego
+Segment tylny (SII) płuca prawego
+Segment przedni (SIII) płuca prawego/lewego
+Segment boczny (SIV) płuca prawego
+Segment przyśrodkowy (SV) płuca prawego
+Segment górny (SVI) płuca prawego/lewego
+Segment podstawny przyśrodkowy (SVII) płuca prawego
+Segment podstawny przedni (SVIII) płuca prawego/lewego
+Segment podstawny boczny (SIX) płuca prawego/lewego
+Segment podstawny tylny (SX) płuca prawego/lewego
+Segment szczytowo-tylny (SI+II) płuca lewego
+Segment języczkowy górny (SIV) płuca lewego
+Segment języczkowy dolny (SV) płuca lewego
+Oskrzeliki oddechowe
+Pęcherzyki płucne
+Jama opłucnej
+Śródpiersie
+Opłucna
+Zachyłki opłucnowe
+Zachłek żebrowo-przeponowy
+Zachyłek żebrowo-śródpiersiowy
+Zachyłek przeponowo-śródpiersiowy
+Osklepek opłucnej
+Opłucna płucna (trzewna)
+Opłucna ścienna
+Opłucna śródpiersiowa
+Opłucna żebrowa
+Opłucna przeponowa
+Śródpiersie górne
+Śródpiersie dolne
+Śródpiersie przednie
+Śródpiersie środkowe
+Śródpiersie tylne
+Więzadło płucne
+Osierdzie
+Osierdzie włókniste
+Więzadło mostkowo-osierdziowe
+Osierdzie surowicze
+Blaszka ścienna osierdzia surowiczego
+Blaszka trzewna osierdzia surowiczego (nasierdzie)
+Jama osierdzia
+Zatoka poprzeczna osierdzia
+Zatoka skośna osierdzia
+Serce
+Podstawa serca
+Powierzchnia mostkowo-żebrowa serca
+Powierzchnia przeponowa serca
+Brzeg prawy/lewy serca
+Koniuszek serca
+Bruzda międzykomorowa przednia
+Bruzda międzykomorowa tylna
+Bruzda wieńcowa
+Przegroda międzykomorowa
+Przegroda przedsionkowo-komorowa
+Uszko przedsionka
+Ujście przedsionkowo-komorowe (prawe/lewe)
+Przegroda międzyprzedsionkowa
+Ujście pnia płucnego
+Ujście aorty
+Beleczki mięśniowe
+Mięśnie brodawkowate
+Struny ścięgniste
+Trójkąt włóknisty prawy/lewy
+Mięsień sercowy
+Pierścień włóknisty prawy/lewy
+Wsierdzie
+Przedsionek prawy/lewy
+Komora prawa/lewa
+Układ bodźco-przewodzący serca
+Węzeł zatokowo-przedsionkowy
+Węzeł przedsionkowo-komorowy
+Pęczek przedsionkowo-komorowy
+Pień pęczka przedsionkowo-komorowego
+Odnoga (prawa/lewa) pęczka przedsionkowo-komorowego
+Mięśnie grzebieniaste
+Bruzda graniczna
+Grzebień graniczny
+Dół owalny
+Otwór owalny
+Uszko prawe
+Zastawka żyły głównej dolnej
+Zastawka zatoki wieńcowej
+Ujście przedsionkowo-komorowe prawe
+Zastawka przedsionkowo-komorowa prawa (zastawka trójdzielna)
+Zastawka pnia płucnego
+M. brodawkowaty przedni komory prawej/lewej
+M. brodawkowaty tylny komory prawej/lewej
+Mięśnie brodawkowate przegrodowe komory prawej
+Beleczka przegrodowo-brzeżna
+Uszko lewe
+Ujście przedsionkowo-komorowe lewe
+Zastawka przedsionkowo-komorowa lewa (zastawka mitralna)
+Zastawka aorty
+Beleczki mięśniowe komory lewej
+Tętnice
+Przewód tętniczy
+Więzadło tętnicze
+Pień płucny
+Tętnica płucna prawa/lewa
+Aorta
+Część wstępująca aorty
+Opuszka aorty
+Zatoka aorty
+T. wieńcowa prawa/lewa
+Gałąź międzykomorowa tylna t. wieńcowej prawej
+Gałąź węzła zatokowo-przedsionkowego t. wieńcowej prawej
+Gałąź międzykomorowa przednia t. wieńcowej lewej
+Gałąź okalająca t. wieńcowej lewej
+Łuk aorty
+Cieśń aorty
+Pień ramienno-głowowy
+T. szyjna wspólna prawa/lewa
+t. podobojczykowa prawa/lewa
+Część zstępująca aorty
+Część piersiowa aorty zstępującej
+Kłębek szyjny
+Zatoka tętnicy szyjnej
+Rozdwojenie tętnicy szyjnej
+tętnica szyjna zewnętrzna
+Tętnica szyjna wewnętrzna
+Żyły
+Żyły płucne
+Prawa/lewa żyła płucna górna
+Prawa/lewa żyła płucna dolna
+Żyły serca
+Zatoka wieńcowa
+Żyła międzykomorowa przednia
+Żyła skośna przedsionka lewego
+Żyła serca wielka
+Żyła średnia serca
+Żyła wieńcowa prawa
+Żyła serca mała
+Żyła komory prawej przednia
+Żyła komory lewej tylna
+Splot szyjny
+Pętla szyjna
+Korzeń przedni pętli szyjnej
+Korzeń tylny pętli szyjnej
+Nerw potyliczny mniejszy
+Nerw uszny wielki
+Nerw poprzeczny szyi
+Nerwy nadobojczykowe
+Nerw przeponowy
+Gałąź osierdziowa nerwu przeponowego
+Gałęzie przeponowo-brzuszne nerwu przeponowego

@@ -1,0 +1,325 @@
+Longus capitis m.
+Sternocleidomastoid m.
+Longus colli m.
+Scalenus anterior (anterior scalene) m.
+Scalenus medius (middle scalene) m.
+Scalenus posterior (posterior scalene) m.
+Scalenus minimus m.
+Suprahyoid muscles
+Infrahyoid muscles
+Cervical fascia
+Rectus capitis anterior m.
+Rectus capitis lateralis m.
+Platysma
+Digastric m.
+Anterior belly of digastric m.
+Posterior belly of digastric m.
+Stylohyoid m.
+Mylohyoid m.
+Geniohyoid m.
+Sternohyoid m.
+Omohyoid m.
+Superior belly of omohyoid m.
+Inferior belly of omohyoid m.
+Sternothyroid m.
+Thyrohyoid m.
+Superficial (investing) layer of cervical fascia
+Pretracheal layer of cervical fascia
+Prevertebral layer of cervical fascia
+Carotid sheath
+External intercostal muscles
+Internal intercostal muscles
+Innermost intercostal muscles
+Subcostal mm.
+Transversus thoracis m.
+Diaphragm
+Lumbar part of diaphragm
+Costal part of diaphragm
+Sternal part of diaphragm
+Aortic hiatus of diaphragm
+Esophageal hiatus of diaphragm
+Central tendon of diaphragm
+Foramen for the inferior vena cava of diaphragm / inferior vena cava opening of diaphragm
+Right crus of lumbar part of diaphragm
+Left crus of lumbar part of diaphragm
+Medial arcuate ligament
+Lateral arcuate ligament
+Median arcuate ligament
+Pharynx
+Pharyngeal cavity / cavity of pharynx
+Pharyngeal fornix
+Nasopharynx
+Oropharynx
+Laryngopharynx
+Pharyngeal tonsil (Adenoids)
+Pharyngeal opening of auditory tube
+Torus tubarius
+Salpingopharyngeal fold
+Torus levatorius
+Tubal tonsil
+Pharyngeal recess
+Piriform recess
+Pharyngeal raphe
+Pterygomandibular raphe
+Superior pharyngeal constrictor m.
+Middle pharyngeal constrictor m.
+Inferior pharyngeal constrictor m.
+Stylopharyngeal m. 
+Salpingopharyngeal m. 
+Peripharyngeal space
+Retropharyngealspace
+Nasal cavity
+Lateral nasal cartilage
+Greater alar cartilage
+Lesser alar cartilage
+Accessory nasal cartilage
+Septal nasal cartilage
+Vomeronasal cartilage
+Nasal openings (nostrils)
+Choanae
+Nasal septum
+Nasal vestibule
+Superior nasal concha
+Middle nasal concha
+Inferior nasal concha
+Spheno-ethmoidal recess
+Superior nasal meatus
+Middle nasal meatus
+Inferior nasal meatus
+Nasolacrimal duct
+Incisive duct
+Membranous part of nasal septum
+Cartilaginous part of nasal septum
+Bony part of nasal septum
+Vomeronasal organ
+Ethmoidal bulla
+Ethmoidal infundibulum
+Semilunar hiatus
+Maxillary sinus
+Sphenoidal sinus
+Frontal sinus
+Ethmoidal H(air) cells
+Anterior ethmoidal H(air) cells
+Middle ethmoidal H(air) cells
+Posterior ethmoidal H(air) cells
+Larynx
+Laryngeal cavity / cavity of larynx
+Thyroid cartilage
+Cricoid cartilage
+Laryngeal prominence of thyroid cartilage
+Right/left lamina of thyroid cartilage
+Superior thyroid notch
+Superior horn (cornu) of thyroid cartilage
+Inferior horn (cornu) of thyroid cartilage
+Thyrohyoid membrane
+Median thyrohyoid ligament
+Lateral thyrohyoid ligament
+Arytenoid cartilage
+Corniculate cartilage
+Cuneiform cartilage
+Epiglottis
+Cricothyroid joint
+Crico-arytenoid joint
+Median cricothyroid ligament
+Cricotracheal ligament
+Vocal process of arytenoid cartilage
+Muscular process of arytenoid cartilage
+Cricothyroid m.
+Posterior crico-arytenoid m.
+Lateral crico-arytenoid m.
+Vocalis m.
+Thyro-epiglottic m.
+Thyro-arytenoid m.
+Oblique arytenoid m.
+Transverse arytenoid m.
+Ary-epiglottic m.
+Laryngeal inlet
+Laryngeal vestibule
+Intermediate cavity of larynx
+Laryngeal ventricle
+Saccule (appendix) of larynx
+Glottis
+Infraglottic cavity
+Quadrangular membrane of larynx
+Conus elasticus of larynx
+Vocal ligament of larynx
+Rima of laryngeal vestibule
+Vestibular fold of larynx
+Rima glottidis
+Vocal fold
+Trachea
+Tracheal cartilages
+Annular ligaments of trachea
+Tracheal bifurcation
+Carina of trachea
+Membranous wall of trachea
+Bronchi
+Bronchial tree
+(Right/left) main bronchus
+Lobar bronchus
+Segmental bronchus
+(Right/left) superior lobar bronchus
+(Right/left) inferior lobar bronchus
+Right middle lobar bronchus
+Lungs
+Right/left lung
+Base of lung
+Apex of lung
+Costal surface of lung
+Medial surface of lung
+Diaphragmatic surface of lung
+Hilum of lung
+Root of lung
+Superior lobe of right/left lung
+Inferior lobe of right/left lung
+Oblique fissure of lung
+Bronchopulmonary segments
+Bronchioles
+Lingula of left lung
+Middle lobe of right lung
+Horizontal fissure of right lung
+Apical Segment (SI) of right lung
+Posterior segment (SII) of right lung
+Anterior segment (SIII) of right/left lung
+Lateral segment (SIV) of right lung
+Medial segment (SV) of right lung
+Superior segment (SVI) of right/left lung
+Medial basal segment (SVII) of right lung
+Anterior basal segment (SVIII) of right/left lung
+Lateral basal segment (SIX) of right/left lung
+Posterior basal segment (SX) of right/left lung
+Apicoposterior segment (SI+II) of left lung
+Superior lingular segment (SIV) of left lung
+Inferior lingular segment (SIV) of left lung
+Respiratory bronchioles
+Pulmonary alveoli
+Pleural cavity
+Mediastinum
+Pleura
+Pleural recesses
+Costodiaphragmatic recess
+Costomediastinal recess
+Phrenicomediastinal recess
+Cupula (dome) of pleura / Cervical pleura
+Pulmonary (visceral) pleura
+Parietal pleura
+Mediastinal pleura
+Costal pleura
+Diaphragmatic pleura
+Superior mediastinum
+Inferior mediastinum
+Anterior mediastinum
+Middle mediastinum
+Posterior mediastinum
+Pulmonary ligament
+Pericardium
+Fibrous pericardium
+Sternopericardiac ligaments
+Serous pericardium
+Parietal layer of serous pericardium
+Visceral layer of serous pericardium (Epicardium)
+Pericardial cavity
+Transverse sinus of pericardium
+Oblique sinus of pericardium
+Heart
+Base of heart
+Sternocostal surface of heart
+Diaphragmatic surface of heart
+Right/left border of heart
+Apex of heart
+Anterior interventricular sulcus (groove)
+Posterior interventricular sulcus (groove)
+Coronary sulcus (groove)
+Interventricular septum
+Atrioventricular septum
+Auricle of atrium
+(Right/left) atrioventricular orifice
+Interatrial septum
+Opening of pulmonary trunk
+Aortic orifice
+Trabeculae carneae
+Papillary muscles
+Chordae tendineae
+Right/left fibrous triangle
+Myocardium
+Right/left fibrous ring
+Endocardium
+Right/left atrium
+Right/left ventricle
+Conducting system of heart
+Sinu-atrial (SA) node
+Atrioventricular (AV) node
+Atrioventricular (AV) bundle
+Trunk of atrioventricular bundle
+(Right/left) crus of atrioventricular bundle
+Musculi pectinati (Pectinate muscles)
+Terminal sulcus (groove)
+Crista terminalis
+Fossa ovalis
+Foramen ovale
+Right auricle
+Valve of inferior vena cava
+Valve of coronary sinus
+Right atrioventricular orifice
+Right atrioventricular (Tricuspid) valve
+Pulmonary valve
+Anterior papillary muscle of right/left ventricle
+Posterior papillary muscle of right/left ventricle
+Septal papillary muscle of right ventricle
+Septomarginal trabecula
+Left auricle
+Left atrioventricular orifice
+Left atrioventricular (Mitral) valve
+Aortic valve
+Trabeculae carneae of left ventricle
+Arteries
+Ductus arteriosus
+Ligamentum arteriosum
+Pulmonary trunk
+Right/left pulmonary artery
+Aorta
+Ascending aorta
+Aortic bulb
+Aortic sinus
+Right/left coronary artery
+Posterior interventricular branch of right coronary a.
+Sinu-atrial nodal branch of right coronary artery
+Anterior interventricular branch of left coronary a.
+Circumflex branch of left coronary a.
+Arch of aorta
+Aortic isthmus
+Brachiocephalic trunk
+Right/left common carotid a.
+Right/left subclavian a.
+Descending aorta
+Thoracic aorta
+Carotid body
+Carotid sinus
+Carotid bifurcation
+External carotid artery
+Internal carotid artery (ICA)
+Veins
+Pulmonary veins
+Right/left superior pulmonary vein
+Right/left inferior pulmonary vein
+Cardiac veins
+Coronary sinus
+Anterior interventricular vein
+Oblique vein of left atrium
+Great cardiac vein
+Middle cardiac vein
+Right coronary vein
+Small cardiac vein
+Anterior vein of right ventricle
+Posterior vein of left ventricle
+Cervical plexus
+Ansa cervicalis
+Anterior root of ansa cervicalis
+Posterior root of ansa cervicalis
+Lesser occipital nerve
+Great auricular nerve
+Transverse cervical (colli) nerve
+Supraclavicular nerves
+Phrenic nerve
+Pericardial branch of phrenic nerve
+Phrenico-abdominal branches of phrenic nerve
