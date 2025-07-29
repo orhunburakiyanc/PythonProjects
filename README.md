@@ -33,27 +33,16 @@ Text encryption and decryption application. Uses simple substitution cipher to e
 ### 🔄 Palindrome Checker (`palindrome.ipynb`)
 A program that checks whether an entered word is a palindrome.
 
-**Features:**
-- Palindrome checking
-- Turkish character support
-- User-friendly interface
 
 ### 🔺 Triangle Printer (`printing_a_triangle.ipynb`)
 A program that creates letter pyramids with specified height.
 
 **Features:**
 - Dynamic height adjustment
-- Alphabetical ordering
 - Symmetric design
 
 ### 🎨 Art Gallery (`selling_paintings.ipynb`)
 Art buying and selling simulation. Manages paintings from different periods with their prices.
-
-**Features:**
-- Filtering by art movements
-- Budget control
-- Multiple purchasing
-- Detailed database
 
 ### ♞ Chess Game (`simplified_chess_game.ipynb`)
 Simplified chess game. Checks whether knight and bishop pieces can attack each other.
